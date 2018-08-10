@@ -1,0 +1,14 @@
+image/FACE_ID/Server_employees.pkl
+
+model/mask_rcnn/*
+model/mtcnn/*
+model/triplet_loss/*
+model/yolo/weight/*
+model/yolo/cfg/*
+model/tf_pose/graph/mobilenet_thin/*
+model/tf_pose/graph/cmu/*
+model/tf_pose/numpy/*
+model/insight_face/model-r50-am-lfw/*
+model/align_reid/model_weight.pth
+
+video/*                  
