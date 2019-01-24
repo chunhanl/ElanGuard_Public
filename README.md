@@ -70,16 +70,16 @@ models, videos can be downloaded in [Google Drive](https://drive.google.com/driv
 ## Demo Codes (GPU REQUIRED)
 * **gui_multicam.py**  
 Example of building up a muti-camera view GUI  
-![image](https://github.com/chunhanl/ElanGuard/blob/master/image/DemoGif/gui_multicam.gif)  
+![image](https://github.com/chunhanl/ElanGuard_Public/blob/master/image/DemoGif/gui_multicam.gif)  
 
 * **gui_singleview_personReID.py**  
 Example of tracking and identifying guest in single camera view
-![image](https://github.com/chunhanl/ElanGuard/blob/master/image/DemoGif/gui_singleview_personReID.gif)  
+![image](https://github.com/chunhanl/ElanGuard_Public/blob/master/image/DemoGif/gui_singleview_personReID.gif)  
 
 
 * **gui_singleview_personReID_faceReID.py**  
 Example of tracking and identifying employee in single camera view
-![image](https://github.com/chunhanl/ElanGuard/blob/master/image/DemoGif/gui_singleview_personReID_faceReID.gif)  
+![image](https://github.com/chunhanl/ElanGuard_Public/blob/master/image/DemoGif/gui_singleview_personReID_faceReID.gif)  
 
 
 
